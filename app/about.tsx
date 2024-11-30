@@ -21,7 +21,7 @@ const About = () => {
                 </Text>
             </Box>
             <Box alignItems={'center'} gap={'lg'} px={'hugo'}>
-                <LinkButton href={"https://github.com"}>
+                <LinkButton href={"https://github.com/AuroraOps04"}>
                     <Box bg={'blue'} width={'100%'} flexDirection={'row'} borderRadius={99} py={'md'} gap={'md'}
                          justifyContent={'center'}
                          alignItems={'center'}>
@@ -38,7 +38,7 @@ const About = () => {
                     </Box>
                 </LinkButton>
                 <LinkButton
-                    href={"https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVJ1clFiMElwZG82amlYUXJnczNnbi03eDdfUXxBQ3Jtc0trVGRCb0ZjaWQ4OE44RUpYeElnQ3ZtLWMxbkNka1hSOWtaeVNKUjFPdVJKWkdkQVVwcHBqRmVfalZwc3d0N2hJVzJ3eU1WaUJVRGp4S1ltNFByNHlnZ0VJeC1Ga2pkRzRpUm8tXzViSlk3UEkwUGo0UQ&q=https%3A%2F%2Fwww.inkdrop.app%2F%3Futm_source%3Ddevaslife%26utm_medium%3Dyoutube%26utm_campaign%3Dvlog%26utm_content%3Dk2h7usLLBhY&v=k2h7usLLBhY"}>
+                    href={"https://www.inkdrop.app/?utm_source=devaslife&utm_medium=youtube&utm_campaign=vlog&utm_content=k2h7usLLBhY"}>
                     <Box bg={'indigo'} borderRadius={99} py={'md'} width={'100%'} flexDirection={'row'}
                          justifyContent={'center'} gap={'md'}
                          alignItems={'center'}>
